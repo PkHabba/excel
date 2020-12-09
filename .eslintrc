@@ -13,6 +13,10 @@
     "operator-linebreak": "off",
     "space-before-blocks": "off",
     "indent": "off",
+    "no-empty": "off",
+    "no-undef": "off",
+    "no-invalid-this": "off",
+    "no-trailing-spaces": "off",
     "no-unused-vars": "off",
     "linebreak-style": 0
   },
