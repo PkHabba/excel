@@ -118,6 +118,7 @@ class Dom {
   }
 }
 
+
 export function $(selector) {
   return new Dom(selector)
 }
